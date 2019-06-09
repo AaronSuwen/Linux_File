@@ -1,4 +1,5 @@
 This is the first line.
+I add one new line in 6-9.
 Git is a distribuuted version control system.
 Git is a free software under the GPL.
 Git has a mutable index called srage.
